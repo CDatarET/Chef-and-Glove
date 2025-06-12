@@ -46,9 +46,6 @@ Third line: N space-separated integers – lengths of the glove sheaths (from th
 Output
 For each test case, print one line containing one of the strings:
 
-scss
-Copy
-Edit
 front
 back
 both
